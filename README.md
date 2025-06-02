@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vijay Krishna – QA Automation Expert with 6+ Years of Industry Experience ⚡
+# 👋 Hi, I’m Vijay Krishna – QA Automation Expert with 3+ Years of Industry Experience ⚡
 
 👀 **What Gets Me Excited?**  
 I specialize in:
@@ -19,7 +19,7 @@ I’m constantly learning and experimenting with the latest in testing:
 - 🔄 **Agile & DevOps Integration** – Working in collaborative environments to foster quality in agile workflows and continuous delivery.
 
 💼 **My Experience**:  
-With over 6 years of industry experience, I’ve developed expertise in:
+With over 3 years of industry experience, I’ve developed expertise in:
 - 🛠️ **Web & Mobile Application Testing** – From functional testing to usability checks, I ensure superior user experiences.
 - 🧑‍💻 **Core Java & Selenium Automation Frameworks** – Architecting efficient and reusable automation frameworks for streamlined testing.
 - ⚙️ **API Testing & Performance** – Ensuring backend stability and high performance using advanced API and load testing tools.
